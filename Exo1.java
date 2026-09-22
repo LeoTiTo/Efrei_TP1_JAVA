@@ -1,15 +1,15 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ * Nom : Huu Loc TRAN
+ * Formation : Ing1-Apprenti
+ * Groupe : BDML 1
+ * Enseignante : Madame Georgina ABI SEJAAN
+ * Role : calculatrice en console avec verification de l'operateur
+ * Date : A COMPLETER
  */
-package tp1;
+package exo1;
 
 import java.util.Scanner;
 
-/**
- *
- * @author lochu
- */
 public class Exo1 {
 
     /**
