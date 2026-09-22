@@ -154,14 +154,3 @@ Les résultats observés ci-dessus valident l’affichage du prénom, deux calcu
 | Modulo par zéro, après correction | 5, 7, 0 | Message d’erreur et arrêt |
 | Choix invalide, après contrôle anticipé | 8 | Message d’erreur sans demander les nombres |
 
-## 6. Bilan
-
-Ce TP m’a permis de prendre en main NetBeans et de construire progressivement des programmes Java en console. Les principales notions abordées sont l’affichage, les variables, la saisie avec `Scanner`, la boucle `while`, les conditions et la sélection d’une opération avec `switch`.
-
-Les points techniques les plus importants sont la mise à jour de l’indice pour éviter une boucle infinie, la différence entre division entière et division flottante, ainsi que l’arrêt du programme avant une opération invalide. La vérification des résultats complète la compilation et permet de détecter les erreurs de logique.
-
-Le présent rapport couvre les trois parties documentées par le code et les exécutions présentés. La partie 4 consacrée aux intervalles n’est pas décrite ici, faute d’éléments de réalisation fournis.
-
-## 7. Lien vers le dépôt GitHub
-
-**Dépôt contenant les projets Java :** [LIEN VERS MON DÉPÔT GITHUB À COMPLÉTER]
